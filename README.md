@@ -55,8 +55,7 @@ It leverages advanced AI agents to generate, repurpose, and publish content acro
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Streamlit  
-- **Backend**: Python  
+Language : Python
 - **Libraries & APIs**:  
   - Playwright → Twitter automation  
   - Nano Banana API → Image generation  
