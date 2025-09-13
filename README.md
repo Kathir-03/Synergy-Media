@@ -142,6 +142,4 @@ Contributions are welcome!
 3. Commit changes
 4. Push to your fork
 5. Open a Pull Request
-
-Would you like me to also **add example screenshots / usage flow diagrams** (e.g., content reconstruction flow → auto-post → analytics) into the README for clarity, or keep it text-only?
 ```
