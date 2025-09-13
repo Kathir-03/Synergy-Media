@@ -80,30 +80,27 @@ Synergy-Media/
 
 ````
 
----
+Got it 👍 I’ll clean it up and format the section neatly in **Markdown style** so it looks professional and consistent inside your README.
 
+Here’s the polished version:
+
+````markdown
 ## ⚙️ Installation
 
-1. **Install uv** (if not already installed):  
-   ```bash
-   pip install uv
-````
-
-2. **Create a virtual environment**:
-
+2. **Create a virtual environment**  
    ```bash
    uv venv
-   ```
+````
 
-3. **Activate the environment**:
+3. **Activate the environment**
 
-   * Windows (PowerShell):
+   * **Windows (PowerShell)**
 
      ```bash
      .venv\Scripts\Activate.ps1
      ```
 
-4. **Install dependencies**:
+4. **Install dependencies**
 
    ```bash
    uv sync
@@ -119,9 +116,18 @@ Run the app locally:
 python st.py
 ```
 
-* **Influencers**: provide a YouTube link → get threads, carousels, reels auto-generated & posted.
-* **Businesses**: upload product details → get optimized promotional content auto-posted.
-* **Everyone**: track engagement via the analytics dashboard.
+* **Influencers** → Provide a YouTube link and get:
+
+  * Twitter threads
+  * LinkedIn carousels
+  * Instagram reels (auto-generated & posted)
+
+* **Businesses** → Upload product details and get:
+
+  * Optimized promotional content for Instagram & Twitter
+  * Automated posting to connected accounts
+
+* **Everyone** → Track engagement and insights via the **Analytics Dashboard**
 
 ---
 
@@ -129,7 +135,12 @@ python st.py
 
 * Python **3.8.18**
 * [uv](https://github.com/astral-sh/uv) for dependency & environment management
-* API access: Twitter, LinkedIn, Instagram Graph API, Nano Banana API
+* API access:
+
+  * Twitter
+  * LinkedIn
+  * Instagram Graph API
+  * Nano Banana API
 
 ---
 
@@ -137,9 +148,12 @@ python st.py
 
 Contributions are welcome!
 
-1. Fork the repo
-2. Create a feature branch
-3. Commit changes
-4. Push to your fork
+1. Fork the repository
+2. Create a new feature branch (`git checkout -b feature/my-feature`)
+3. Commit your changes (`git commit -m "Add my feature"`)
+4. Push to your fork (`git push origin feature/my-feature`)
 5. Open a Pull Request
+
 ```
+
+
