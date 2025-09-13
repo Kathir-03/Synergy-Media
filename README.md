@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/Kathir-03/Synergy-Media)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/Kathir-03/Synergy-Media)](https://github.com/Kathir-03/Synergy-Media/commits/main)
 [![Issues](https://img.shields.io/github/issues/Kathir-03/Synergy-Media)](https://github.com/Kathir-03/Synergy-Media/issues)
-[![Stars](https://img.shields.io/github/stars/Kathir-03/Synergy-Media?style=social)](https://github.com/Kathir-03/Synergy-Media/stargazers)# Synergy-Media
+[![Stars](https://img.shields.io/github/stars/Kathir-03/Synergy-Media?style=social)](https://github.com/Kathir-03/Synergy-Media/stargazers)
 
 **Synergy-Media** is an AI-powered social media automation and analytics platform designed for **influencers** and **businesses**.  
 It leverages advanced AI agents to generate, repurpose, and publish content across platforms — while providing actionable insights with a cross-platform analytics dashboard.
